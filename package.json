@@ -1,0 +1,27 @@
+{
+  "name": "panuko-dark-neon",
+  "displayName": "Panuko Dark Neon",
+  "description": "A dark theme with neon accents",
+  "version": "0.0.1",
+  "publisher": "DanteIturri",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanteIturri/panuko-dark-neon"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Panuko Dark Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Panuko-Dark-Neon-color-theme.json"
+      }
+    ]
+  }
+}
