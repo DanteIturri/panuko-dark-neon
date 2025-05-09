@@ -2,6 +2,12 @@
 
 Panuko Dark Neon es un tema oscuro y vibrante diseñado para Visual Studio Code. Este tema utiliza colores neón llamativos para resaltar diferentes elementos del código, mejorando la legibilidad y la experiencia de desarrollo.
 
+## Captura de Pantalla
+
+A continuación, se muestra una vista previa del tema Panuko Dark Neon en acción:
+
+![Captura de Pantalla](./screenshot.png)
+
 ## Estructura del Tema
 
 El archivo principal del tema es `panuko-theme.json`, que contiene dos secciones principales:
